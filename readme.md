@@ -1,4 +1,3 @@
-```markdown
 # Transcribe: A Console Application for Speech-to-Text using Whisper
 
 **Transcribe** is a user-friendly command-line tool for converting audio and video files into text using [OpenAI Whisper](https://github.com/openai/whisper). It supports multiple model sizes (tiny, base, small, medium), automatic GPU/CPU detection, language selection (English/Russian), and flexible output options. The script also offers transparent audio extraction from video files using `ffmpeg`.
@@ -233,4 +232,3 @@ Then you can remove or archive the project folder.
 - [ffmpeg](https://ffmpeg.org/) for audio extraction from videos.  
 
 *Thank you for using **Transcribe**! If you have any questions or suggestions, please reach out or open an issue.*
-```
