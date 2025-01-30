@@ -1,4 +1,4 @@
-#!/home/artemka/AI_transcribation/venv/bin/python3
+#!/home/artemka/Code/Scripts/AI_transcribation/venv/bin/python3
 """
 Transcriber Console Application
 --------------------------------
@@ -31,10 +31,10 @@ Background:
       format. 
 """
 
-import os
-import sys
-import subprocess
 import argparse
+import os
+import subprocess
+import sys
 import warnings
 
 try:
